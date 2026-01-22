@@ -1,0 +1,1808 @@
+{
+  "BTC": {
+    "instId": "BTC-USDT-SWAP",
+    "lotSz": 0.01,
+    "minSz": 0.01,
+    "ctVal": 0.01,
+    "tickSz": 0.1
+  },
+  "ETH": {
+    "instId": "ETH-USDT-SWAP",
+    "lotSz": 0.01,
+    "minSz": 0.01,
+    "ctVal": 0.1,
+    "tickSz": 0.01
+  },
+  "OKB": {
+    "instId": "OKB-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.01,
+    "tickSz": 0.01
+  },
+  "SOL": {
+    "instId": "SOL-USDT-SWAP",
+    "lotSz": 0.01,
+    "minSz": 0.01,
+    "ctVal": 1.0,
+    "tickSz": 0.01
+  },
+  "DOGE": {
+    "instId": "DOGE-USDT-SWAP",
+    "lotSz": 0.01,
+    "minSz": 0.01,
+    "ctVal": 1000.0,
+    "tickSz": 1e-05
+  },
+  "XRP": {
+    "instId": "XRP-USDT-SWAP",
+    "lotSz": 0.01,
+    "minSz": 0.01,
+    "ctVal": 100.0,
+    "tickSz": 0.0001
+  },
+  "BCH": {
+    "instId": "BCH-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 0.1,
+    "tickSz": 0.1
+  },
+  "PUMP": {
+    "instId": "PUMP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1000.0,
+    "tickSz": 1e-06
+  },
+  "WLFI": {
+    "instId": "WLFI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "LINEA": {
+    "instId": "LINEA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "0G": {
+    "instId": "0G-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "1INCH": {
+    "instId": "1INCH-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "2Z": {
+    "instId": "2Z-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "A": {
+    "instId": "A-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "AAVE": {
+    "instId": "AAVE-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 0.1,
+    "tickSz": 0.01
+  },
+  "ACE": {
+    "instId": "ACE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "ACH": {
+    "instId": "ACH-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "ACT": {
+    "instId": "ACT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "ADA": {
+    "instId": "ADA-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 100.0,
+    "tickSz": 0.0001
+  },
+  "AERO": {
+    "instId": "AERO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "AEVO": {
+    "instId": "AEVO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "AGLD": {
+    "instId": "AGLD-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "AIXBT": {
+    "instId": "AIXBT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "ALGO": {
+    "instId": "ALGO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "ALLO": {
+    "instId": "ALLO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "ANIME": {
+    "instId": "ANIME-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-06
+  },
+  "APE": {
+    "instId": "APE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.0001
+  },
+  "API3": {
+    "instId": "API3-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "APR": {
+    "instId": "APR-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "APT": {
+    "instId": "APT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "AR": {
+    "instId": "AR-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "ARB": {
+    "instId": "ARB-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "ARKM": {
+    "instId": "ARKM-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "ASTER": {
+    "instId": "ASTER-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "AT": {
+    "instId": "AT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "ATH": {
+    "instId": "ATH-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "ATOM": {
+    "instId": "ATOM-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "AUCTION": {
+    "instId": "AUCTION-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "AVAX": {
+    "instId": "AVAX-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "AVNT": {
+    "instId": "AVNT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "AXS": {
+    "instId": "AXS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.0001
+  },
+  "BABY": {
+    "instId": "BABY-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "BAND": {
+    "instId": "BAND-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "BARD": {
+    "instId": "BARD-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "BAT": {
+    "instId": "BAT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "BEAT": {
+    "instId": "BEAT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "BERA": {
+    "instId": "BERA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.0001
+  },
+  "BICO": {
+    "instId": "BICO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "BIGTIME": {
+    "instId": "BIGTIME-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "BIO": {
+    "instId": "BIO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "BLUR": {
+    "instId": "BLUR-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "BLUAI": {
+    "instId": "BLUAI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "BNB": {
+    "instId": "BNB-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.01,
+    "tickSz": 0.1
+  },
+  "BOME": {
+    "instId": "BOME-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1000.0,
+    "tickSz": 1e-07
+  },
+  "BONK": {
+    "instId": "BONK-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100000.0,
+    "tickSz": 1e-09
+  },
+  "BRETT": {
+    "instId": "BRETT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "BREV": {
+    "instId": "BREV-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "CAT": {
+    "instId": "CAT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100000.0,
+    "tickSz": 1e-09
+  },
+  "CATI": {
+    "instId": "CATI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "CC": {
+    "instId": "CC-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "CELO": {
+    "instId": "CELO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "CFX": {
+    "instId": "CFX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "CHZ": {
+    "instId": "CHZ-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "COAI": {
+    "instId": "COAI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.0001
+  },
+  "COMP": {
+    "instId": "COMP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.01
+  },
+  "COOKIE": {
+    "instId": "COOKIE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "CORE": {
+    "instId": "CORE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "CRO": {
+    "instId": "CRO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "CRV": {
+    "instId": "CRV-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "CVX": {
+    "instId": "CVX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "DASH": {
+    "instId": "DASH-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.01,
+    "tickSz": 0.01
+  },
+  "DOOD": {
+    "instId": "DOOD-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1000.0,
+    "tickSz": 1e-06
+  },
+  "DOT": {
+    "instId": "DOT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "DYDX": {
+    "instId": "DYDX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "EDEN": {
+    "instId": "EDEN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "EGLD": {
+    "instId": "EGLD-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "EIGEN": {
+    "instId": "EIGEN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "ENA": {
+    "instId": "ENA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "ENJ": {
+    "instId": "ENJ-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "ENS": {
+    "instId": "ENS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "ENSO": {
+    "instId": "ENSO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "ETC": {
+    "instId": "ETC-USDT-SWAP",
+    "lotSz": 0.01,
+    "minSz": 0.01,
+    "ctVal": 10.0,
+    "tickSz": 0.01
+  },
+  "ETHW": {
+    "instId": "ETHW-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.0001
+  },
+  "ETHFI": {
+    "instId": "ETHFI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "F": {
+    "instId": "F-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "FARTCOIN": {
+    "instId": "FARTCOIN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "FIL": {
+    "instId": "FIL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "FLOKI": {
+    "instId": "FLOKI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100000.0,
+    "tickSz": 1e-08
+  },
+  "FLOW": {
+    "instId": "FLOW-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "FOGO": {
+    "instId": "FOGO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "FUN": {
+    "instId": "FUN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "GALA": {
+    "instId": "GALA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-06
+  },
+  "GAS": {
+    "instId": "GAS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "GIGGLE": {
+    "instId": "GIGGLE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.01,
+    "tickSz": 0.01
+  },
+  "GLM": {
+    "instId": "GLM-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "GMT": {
+    "instId": "GMT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "GMX": {
+    "instId": "GMX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "GPS": {
+    "instId": "GPS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-06
+  },
+  "GRASS": {
+    "instId": "GRASS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "GRT": {
+    "instId": "GRT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "H": {
+    "instId": "H-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "HBAR": {
+    "instId": "HBAR-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "HMSTR": {
+    "instId": "HMSTR-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-07
+  },
+  "HOME": {
+    "instId": "HOME-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "HUMA": {
+    "instId": "HUMA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "HYPE": {
+    "instId": "HYPE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "ICP": {
+    "instId": "ICP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.01,
+    "tickSz": 0.001
+  },
+  "ICX": {
+    "instId": "ICX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "IMX": {
+    "instId": "IMX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "INIT": {
+    "instId": "INIT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "INJ": {
+    "instId": "INJ-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "IOST": {
+    "instId": "IOST-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1000.0,
+    "tickSz": 1e-06
+  },
+  "IOTA": {
+    "instId": "IOTA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "IP": {
+    "instId": "IP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "JCT": {
+    "instId": "JCT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1000.0,
+    "tickSz": 1e-06
+  },
+  "JELLYJELLY": {
+    "instId": "JELLYJELLY-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "JTO": {
+    "instId": "JTO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "JUP": {
+    "instId": "JUP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "KAITO": {
+    "instId": "KAITO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "KGEN": {
+    "instId": "KGEN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "KMNO": {
+    "instId": "KMNO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "KSM": {
+    "instId": "KSM-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "LA": {
+    "instId": "LA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "LAB": {
+    "instId": "LAB-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "LAYER": {
+    "instId": "LAYER-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "LDO": {
+    "instId": "LDO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "LIGHT": {
+    "instId": "LIGHT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "LINK": {
+    "instId": "LINK-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "LIT": {
+    "instId": "LIT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "LPT": {
+    "instId": "LPT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "LQTY": {
+    "instId": "LQTY-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "LRC": {
+    "instId": "LRC-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "LTC": {
+    "instId": "LTC-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 1.0,
+    "tickSz": 0.01
+  },
+  "LUNA": {
+    "instId": "LUNA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "MAGIC": {
+    "instId": "MAGIC-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "MANA": {
+    "instId": "MANA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "MASK": {
+    "instId": "MASK-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "ME": {
+    "instId": "ME-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "MEME": {
+    "instId": "MEME-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-07
+  },
+  "MERL": {
+    "instId": "MERL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "METIS": {
+    "instId": "METIS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "MET": {
+    "instId": "MET-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "MEW": {
+    "instId": "MEW-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1000.0,
+    "tickSz": 1e-07
+  },
+  "MINA": {
+    "instId": "MINA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "MMT": {
+    "instId": "MMT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "MOG": {
+    "instId": "MOG-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1000000.0,
+    "tickSz": 1e-10
+  },
+  "MON": {
+    "instId": "MON-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "MOODENG": {
+    "instId": "MOODENG-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "MORPHO": {
+    "instId": "MORPHO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "MOVE": {
+    "instId": "MOVE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "MUBARAK": {
+    "instId": "MUBARAK-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "NEAR": {
+    "instId": "NEAR-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 10.0,
+    "tickSz": 0.001
+  },
+  "NEIRO": {
+    "instId": "NEIRO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1000.0,
+    "tickSz": 1e-07
+  },
+  "NEO": {
+    "instId": "NEO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "NIGHT": {
+    "instId": "NIGHT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "NMR": {
+    "instId": "NMR-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "NOT": {
+    "instId": "NOT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-07
+  },
+  "OL": {
+    "instId": "OL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "OM": {
+    "instId": "OM-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "ONDO": {
+    "instId": "ONDO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "ONE": {
+    "instId": "ONE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "ONT": {
+    "instId": "ONT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "OP": {
+    "instId": "OP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "ORDI": {
+    "instId": "ORDI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "ORDER": {
+    "instId": "ORDER-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "PARTI": {
+    "instId": "PARTI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "PENGU": {
+    "instId": "PENGU-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "PENDLE": {
+    "instId": "PENDLE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "PEOPLE": {
+    "instId": "PEOPLE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "PEPE": {
+    "instId": "PEPE-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 10000000.0,
+    "tickSz": 1e-09
+  },
+  "PI": {
+    "instId": "PI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "PIEVERSE": {
+    "instId": "PIEVERSE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "PIPPIN": {
+    "instId": "PIPPIN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "PLUME": {
+    "instId": "PLUME-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "PNUT": {
+    "instId": "PNUT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "POL": {
+    "instId": "POL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "POPCAT": {
+    "instId": "POPCAT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "PROMPT": {
+    "instId": "PROMPT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "PROVE": {
+    "instId": "PROVE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "PYTH": {
+    "instId": "PYTH-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "QTUM": {
+    "instId": "QTUM-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "RAVE": {
+    "instId": "RAVE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "RAY": {
+    "instId": "RAY-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "RECALL": {
+    "instId": "RECALL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "RENDER": {
+    "instId": "RENDER-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "RESOLV": {
+    "instId": "RESOLV-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "RIVER": {
+    "instId": "RIVER-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "RLS": {
+    "instId": "RLS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "RSR": {
+    "instId": "RSR-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "RVN": {
+    "instId": "RVN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-06
+  },
+  "S": {
+    "instId": "S-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "SAHARA": {
+    "instId": "SAHARA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "SAND": {
+    "instId": "SAND-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "SAPIEN": {
+    "instId": "SAPIEN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "SATS": {
+    "instId": "SATS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10000000.0,
+    "tickSz": 1e-11
+  },
+  "SEI": {
+    "instId": "SEI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "SENT": {
+    "instId": "SENT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "SHELL": {
+    "instId": "SHELL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "SHIB": {
+    "instId": "SHIB-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 1000000.0,
+    "tickSz": 1e-09
+  },
+  "SIGN": {
+    "instId": "SIGN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "SKY": {
+    "instId": "SKY-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "SNX": {
+    "instId": "SNX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "SOLV": {
+    "instId": "SOLV-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "SOON": {
+    "instId": "SOON-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "SOPH": {
+    "instId": "SOPH-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "SPK": {
+    "instId": "SPK-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "SPX": {
+    "instId": "SPX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "SSV": {
+    "instId": "SSV-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "STABLE": {
+    "instId": "STABLE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "STRK": {
+    "instId": "STRK-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "STX": {
+    "instId": "STX-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "SUI": {
+    "instId": "SUI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "SUSHI": {
+    "instId": "SUSHI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "SYRUP": {
+    "instId": "SYRUP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "TAO": {
+    "instId": "TAO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.01,
+    "tickSz": 0.1
+  },
+  "THETA": {
+    "instId": "THETA-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "TIA": {
+    "instId": "TIA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "TON": {
+    "instId": "TON-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "TRB": {
+    "instId": "TRB-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.01
+  },
+  "TREE": {
+    "instId": "TREE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "TRUMP": {
+    "instId": "TRUMP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "TRUST": {
+    "instId": "TRUST-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "TRUTH": {
+    "instId": "TRUTH-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "TRX": {
+    "instId": "TRX-USDT-SWAP",
+    "lotSz": 0.01,
+    "minSz": 0.01,
+    "ctVal": 1000.0,
+    "tickSz": 1e-05
+  },
+  "TURBO": {
+    "instId": "TURBO-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 10000.0,
+    "tickSz": 1e-06
+  },
+  "TURTLE": {
+    "instId": "TURTLE-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "UMA": {
+    "instId": "UMA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.0001
+  },
+  "UNI": {
+    "instId": "UNI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "USDC": {
+    "instId": "USDC-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-06
+  },
+  "USELESS": {
+    "instId": "USELESS-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "VANA": {
+    "instId": "VANA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "VIRTUAL": {
+    "instId": "VIRTUAL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "W": {
+    "instId": "W-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "WAL": {
+    "instId": "WAL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "WCT": {
+    "instId": "WCT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "WET": {
+    "instId": "WET-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "WIF": {
+    "instId": "WIF-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "WLD": {
+    "instId": "WLD-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "WOO": {
+    "instId": "WOO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "XAN": {
+    "instId": "XAN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "XAU": {
+    "instId": "XAU-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.001,
+    "tickSz": 0.1
+  },
+  "XLM": {
+    "instId": "XLM-USDT-SWAP",
+    "lotSz": 0.1,
+    "minSz": 0.1,
+    "ctVal": 100.0,
+    "tickSz": 1e-05
+  },
+  "XPL": {
+    "instId": "XPL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "XTZ": {
+    "instId": "XTZ-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "YB": {
+    "instId": "YB-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.0001
+  },
+  "YFI": {
+    "instId": "YFI-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.0001,
+    "tickSz": 1.0
+  },
+  "YGG": {
+    "instId": "YGG-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "ZAMA": {
+    "instId": "ZAMA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "ZBT": {
+    "instId": "ZBT-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 1e-05
+  },
+  "ZEC": {
+    "instId": "ZEC-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.01,
+    "tickSz": 0.01
+  },
+  "ZEN": {
+    "instId": "ZEN-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 0.1,
+    "tickSz": 0.001
+  },
+  "ZETA": {
+    "instId": "ZETA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "ZIL": {
+    "instId": "ZIL-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 100.0,
+    "tickSz": 1e-06
+  },
+  "ZK": {
+    "instId": "ZK-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "ZKP": {
+    "instId": "ZKP-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  },
+  "ZORA": {
+    "instId": "ZORA-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 1e-05
+  },
+  "ZRO": {
+    "instId": "ZRO-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 1.0,
+    "tickSz": 0.001
+  },
+  "ZRX": {
+    "instId": "ZRX-USDT-SWAP",
+    "lotSz": 1.0,
+    "minSz": 1.0,
+    "ctVal": 10.0,
+    "tickSz": 0.0001
+  }
+}
